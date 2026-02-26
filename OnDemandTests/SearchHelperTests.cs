@@ -1,7 +1,6 @@
 ﻿using Geometry;
 using PolylineChallenge;
 using System;
-using System.Collections.Generic;
 using System.IO;
 
 namespace OnDemandTests

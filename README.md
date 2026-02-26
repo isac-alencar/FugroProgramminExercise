@@ -54,3 +54,8 @@ FugroProgramminExercise/
 * **Language**: C#
 * **Framework**: .NET
 * **Testing Framework**: MSTest
+
+## On Demand Test
+
+* Check the test method **FindOffsetAndStation_OnDemandTest** in `FugroProgramminExercise\OnDemandTests\SearchHelperTests.cs` file.
+* You can change the point coordinates and create your own polyline on `FugroProgramminExercise\OnDemandTests\TestFiles\polyline_sample.csv` file.
