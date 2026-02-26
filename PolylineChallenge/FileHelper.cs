@@ -10,7 +10,7 @@ namespace PolylineChallenge
     /// Provides helper methods for reading geometry-related data
     /// from external files.
     /// </summary>
-    internal static class FileHelper
+    public static class FileHelper
     {
         /// <summary>
         /// Reads a collection of <see cref="Point"/> objects from a CSV file.
@@ -34,7 +34,7 @@ namespace PolylineChallenge
         /// throw exceptions to the caller; instead, it logs errors and returns
         /// the points successfully parsed up to the failure point.
         /// </remarks>
-        internal static ICollection<Point> ReadPointsFromCsv(string filePath)
+        public static ICollection<Point> ReadPointsFromCsv(string filePath)
         {
             ICollection<Point> points = new List<Point>();
 

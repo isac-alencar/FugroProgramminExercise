@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geomet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{27D11A21-4170-4B13-9715-3E28C096AE23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnDemandTests", "OnDemandTests\OnDemandTests.csproj", "{92B8A9FF-13AD-4314-A8E4-B30507B77B2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{27D11A21-4170-4B13-9715-3E28C096AE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27D11A21-4170-4B13-9715-3E28C096AE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27D11A21-4170-4B13-9715-3E28C096AE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B8A9FF-13AD-4314-A8E4-B30507B77B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B8A9FF-13AD-4314-A8E4-B30507B77B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B8A9FF-13AD-4314-A8E4-B30507B77B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B8A9FF-13AD-4314-A8E4-B30507B77B2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
